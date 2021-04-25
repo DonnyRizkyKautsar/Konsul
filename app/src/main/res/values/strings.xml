@@ -1,0 +1,10 @@
+<resources>
+    <string name="spesialisasi_sport">spesialisasi sport</string>
+    <string name="spesialisasi_saraf">spesialisasi saraf</string>
+    <string name="daftar_dokter">Daftar Dokter</string>
+    <string name="nama_dokter">Nama Dokter</string>
+    <string name="konsul">Konsul</string>
+    <string name="see_more">see more</string>
+    <string name="spesialisasi_anak">spesialisasi anak</string>
+    <string name="spesialisasi_geriatric">spesialisasi geriatric</string>
+</resources>
